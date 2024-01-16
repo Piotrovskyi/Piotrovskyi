@@ -1,5 +1,5 @@
 <h3 align="center">Hello 👋, I'm Yevhen Piotrovskyi</h3>
-<p align="center">CTO and Cofounder at <a href="https://yojji.io">Yojji</a></p>
+<p align="center">Cofounder of <a href="https://yojji.io">Yojji</a></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/yevhen-piotrovskyi/">Linkedin</a>
 </p>
