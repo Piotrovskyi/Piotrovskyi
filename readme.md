@@ -7,6 +7,6 @@
 ---
 
 ## About Me
-- 😍 In love with Management, Finance, Business optimization and digitalization
+- 😍 In love with Software development, Management, Finance, Business optimization and digitalization
 - 🛩️ In process of getting Private Pilot license
 - 📫 How to reach me: yevhen.piotrovskyi@yojji.io
